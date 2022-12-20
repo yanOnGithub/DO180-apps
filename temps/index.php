@@ -4,6 +4,7 @@
       <meta charset="utf-8">
 </head>
 <body>
+s2i practice
       <form name="form1" method="POST" action="<?php echo $_SERVER["PHP_SELF"]; ?>">
 
 <table>
